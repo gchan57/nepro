@@ -41,53 +41,53 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDk9p26zTKQpPKPvdQkka-Tz0J9QC-oc2Q',
-    appId: '1:436823431645:web:19317966e754c851fabe34',
-    messagingSenderId: '436823431645',
-    projectId: 'agsm-21341',
-    authDomain: 'agsm-21341.firebaseapp.com',
-    databaseURL: 'https://agsm-21341-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'agsm-21341.firebasestorage.app',
-    measurementId: 'G-460DEJQ18P',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBL9IysJW0pfD2evrV04rQMWr4ALPtT2AA',
-    appId: '1:436823431645:android:08164c3e22d54a37fabe34',
-    messagingSenderId: '436823431645',
-    projectId: 'agsm-21341',
-    databaseURL: 'https://agsm-21341-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'agsm-21341.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDVBy8wg3kw6r0fAFwsCj4475f1-TJgN3g',
-    appId: '1:436823431645:ios:5672917aba7c4c58fabe34',
-    messagingSenderId: '436823431645',
-    projectId: 'agsm-21341',
-    databaseURL: 'https://agsm-21341-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'agsm-21341.firebasestorage.app',
-    iosBundleId: 'com.example.nepro',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDVBy8wg3kw6r0fAFwsCj4475f1-TJgN3g',
-    appId: '1:436823431645:ios:5672917aba7c4c58fabe34',
-    messagingSenderId: '436823431645',
-    projectId: 'agsm-21341',
-    databaseURL: 'https://agsm-21341-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'agsm-21341.firebasestorage.app',
-    iosBundleId: 'com.example.nepro',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    databaseURL: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDk9p26zTKQpPKPvdQkka-Tz0J9QC-oc2Q',
-    appId: '1:436823431645:web:8331f591543138d3fabe34',
-    messagingSenderId: '436823431645',
-    projectId: 'agsm-21341',
-    authDomain: 'agsm-21341.firebaseapp.com',
-    databaseURL: 'https://agsm-21341-default-rtdb.asia-southeast1.firebasedatabase.app',
-    storageBucket: 'agsm-21341.firebasestorage.app',
-    measurementId: 'G-2DJZHVSYJB',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    databaseURL: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
