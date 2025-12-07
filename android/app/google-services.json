@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "436823431645",
+    "firebase_url": "https://agsm-21341-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "agsm-21341",
+    "storage_bucket": "agsm-21341.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436823431645:android:2da0f6eaf24250a5fabe34",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9IysJW0pfD2evrV04rQMWr4ALPtT2AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436823431645:android:08164c3e22d54a37fabe34",
+        "android_client_info": {
+          "package_name": "com.example.nepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBL9IysJW0pfD2evrV04rQMWr4ALPtT2AA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
